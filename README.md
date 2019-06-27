@@ -3,7 +3,7 @@
 example:
 
 ```js
-const { increment } = require("alphanum-increment");
+const { increment } = require("alphanumoperations");
 
 increment("99a-z"); //=> 99b-0
 ```
