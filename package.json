@@ -1,5 +1,5 @@
 {
-  "name": "alphanumIncrement",
+  "name": "alphanum-increment",
   "version": "1.0.0",
   "description": "Package to help you increment alphanumeric values, skipping all the special characters",
   "main": "index.js",
