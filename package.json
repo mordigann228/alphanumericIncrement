@@ -1,0 +1,19 @@
+{
+  "name": "alphanum",
+  "version": "1.0.0",
+  "description": "Package to help you increment alphanumeric values, skipping all the special characters",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mordigann228/alphanumericIncrement"
+  },
+  "keywords": [
+    "alphanumeric",
+    "increment"
+  ],
+  "author": "Aram Hayrapetyan",
+  "license": "ISC"
+}
